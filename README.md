@@ -6,9 +6,8 @@ Text Classification using Transformers (BERT) for predicting multi-label tags fo
 
 The dataset contains 4 columns: Id, Title, Body & Tags
 
-<br> Id - Unique identifier for each question
-<br> Title - The question's title
+<br>Id - Unique identifier for each question
+<br>Title - The question's title
 <br>Body - The body of the question
-
-Tags - The tags associated with the question
+<br>Tags - The tags associated with the question
 
