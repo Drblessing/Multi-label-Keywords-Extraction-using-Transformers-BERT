@@ -4,11 +4,11 @@ Text Classification using Transformers (BERT) for predicting multi-label tags fo
 
 --------------------------------- 
 
-The dataset is 7.25GB and contains 4 columns: Id, Title, Body & Tags
-<br>Id - Unique identifier for each question
-<br>Title - The question's title
-<br>Body - The body of the question 
-<br>Tags - The tags associated with the question
+The dataset is 7.25GB and contains 4 columns: Id, Title, Body & Tags:
+- Id - Unique identifier for each question
+- Title - The question's title
+- Body - The body of the question 
+- Tags - The tags associated with the question
 
 Question Body and Title both has varying length, and the number of Tags associated to each question varries. 
 There is in total approx. 27,000 unique Tags. 
