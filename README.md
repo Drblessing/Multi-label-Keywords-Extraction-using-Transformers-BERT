@@ -16,7 +16,7 @@ My approach to this task was to use a pre-trained model from Hugging Face, speci
 
 The notebook is constructed to train and process the whole 7.25 GB dataset in Google CoLab Pro without breaking the kernel (but due to time restrictions not trained on the full dataset).
 
-To further restrict the complexity of this task, I focused on only classifying the top 100 Tags in the dataset (please see notebook for more information).
+To further restrict the complexity of this task, I focused on only classifying the top 10 Tags in the dataset (please see notebook for more information).
 
 The final performance of the model yields a accuracy of 93%. 
 
