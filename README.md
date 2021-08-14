@@ -18,7 +18,7 @@ The notebook is constructed to train and process the whole 7.25 GB dataset in Go
 
 To further restrict the complexity of this task, I focused on only classifying the top 100 Tags in the dataset (please see notebook for more information).
 
-The final performance of the model yields an F1 score of ...
+The final performance of the model yields a accuracy of 93%. 
 
 Further improvements to this model include:
 - Experiment more with increasing the number of tags our model can classify
