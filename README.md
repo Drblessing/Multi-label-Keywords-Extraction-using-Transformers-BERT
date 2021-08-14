@@ -25,3 +25,5 @@ Further improvements to this model include:
 - Reducing required training time of model
 - Compare performance with other pre-trained BERT models
 - Try other keywords/topic extraction, specific models
+
+References: https://medium.com/analytics-vidhya/multi-label-text-classification-using-transformers-bert-93460838e62b
